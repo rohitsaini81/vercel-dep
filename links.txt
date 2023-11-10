@@ -1,0 +1,22 @@
+https://admin-page-gwgi.onrender.com/
+
+https://get-movies-w63k.onrender.com/
+https://nokia-movies-123.onrender.com/
+// new links
+https://thematrixweb.000webhostapp.com/test-doc/
+https://auto-bot-one.vercel.app/api/6
+https://hp-api-peach.vercel.app/a
+https://getmovies-one.vercel.app/api/movies
+
+
+
+
+
+
+
+
+
+env.
+COLLECTION_NAME = ""
+DATABASE = "rohitdbs"
+URI_PASS = "simran:rohit776"
